@@ -1,0 +1,8 @@
+.sidemenu.svelte-o0yggu a.svelte-o0yggu,
+.sidemenu.svelte-o0yggu summary.svelte-o0yggu {
+  display: flex;
+  height: 4rem;
+  justify-content: space-between;
+  font-size: 1rem;
+  line-height: 1.6rem;
+}

@@ -1,0 +1,14 @@
+img.svelte-86thj2 {
+  background-image: repeating-linear-gradient(
+    135deg,
+    hsl(var(--b3) / 1) 0,
+    hsl(var(--b3) / 1) 4px,
+    transparent 4px,
+    transparent 8px
+  );
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: pre-wrap;
+  text-align: center;
+}
